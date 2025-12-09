@@ -1,2 +1,2 @@
 # Final-Project-for-Machine-Learning
-The Code, CSV and Slides will be here.
+Please run the code in the order I have it in, thank you 🙏🏾.
